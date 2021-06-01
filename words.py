@@ -197,7 +197,7 @@ word_list = [
     "theatre",
     "juice",
     "soul",
-    "travel"
+    "travel",
     "cache",
     "market",
     "aerobics",
