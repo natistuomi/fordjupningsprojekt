@@ -9,7 +9,7 @@ def play(word):
     word_completion = "_" * len(word)
     guessed = False
     guessed_letters = []
-    tries = 8
+    tries = 10
     print("Let's play hangman!")
     print(word_completion)
     while not guessed and tries > 0:
